@@ -1,4 +1,4 @@
-import java.util.Scanner;;
+import java.util.Scanner;
 
 public class task1_1 {
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class task1_1 {
         }
 
         System.out.println("Sum is " + sum);
-        System.out.println("Factoorial is " + factorial + "\n\n");
+        System.out.println("Factorial is " + factorial + "\n\n");
+        sc.close();
     }
-    
 }
